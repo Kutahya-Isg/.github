@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/ORGANIZASYON_KULLANICI_ADINIZ">
-    <img src="https://github.com/ORGANIZASYON_KULLANICI_ADINIZ.png" width="200" height="200" style="border-radius: 20%;" alt="Firma Logosu"/>
+  <a href="https://github.com/Kutahya-Isg">
+    <img src="https://github.com/Kutahya-Isg.png" width="200" height="200" style="border-radius: 20%;" alt="Firma Logosu"/>
   </a>
 
   # [FİRMA ADI]
